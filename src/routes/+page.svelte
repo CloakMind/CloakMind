@@ -31,11 +31,11 @@
 
     <Card>
         <img src="pawss.png" alt="Pawss logo" class="m-4 h-24" />
-        <span class="max-w-sm">
+        <span class="max-w-xs">
             Meet
             <!-- <span class="font-bold text-transparent bg-gradient-to-r from-[#FCD400] to-[#C59A34] bg-clip-text"> -->
-            <span class="font-bold"> Pawss </span>, the computer agent that sees
-            <br /> what you see and works where you work.
+            <span class="font-bold"> Pawss </span>, the computer agent that sees what you see and works
+            where you work.
         </span>
         <a
             href="https://pawss.party"
@@ -57,8 +57,8 @@
     <Card>
         <img src="aetheriumai.png" alt="DeepSeekret logo" class="m-4 h-24" />
         <span class="font-bold">AetheriumAI</span>
-        <span class="mt-2 max-w-sm rounded-full text-sm">
-            There's more to your PDFs than <br /> meets the eye. Let AI show you.
+        <span class="mt-2 max-w-xs rounded-full text-sm">
+            There's more to your PDFs than meets the eye. Let AI show you.
         </span>
         <a
             href="http://aetheriumai.vercel.app/?ref=cloakmind"
@@ -70,10 +70,10 @@
     </Card>
 
     <Card>
-        <span class="max-w-md text-sm">
+        <span class="max-w-xs text-sm">
             We build for the love of building. Drop us an
-            <a href="mailto:cloakmind@gmail.com" class="link">email</a> if we <br /> can build together, or
-            talk about tech or life as builders.
+            <a href="mailto:cloakmind@gmail.com" class="link">email</a> if we can build together, or talk about
+            tech or life as builders.
         </span>
     </Card>
 </div>
